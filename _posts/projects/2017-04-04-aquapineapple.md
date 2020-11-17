@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Aqua Pineapple"
-  type: "Jekyll"
+  title: "Final Project"
+  type: "최종 프로젝트"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
