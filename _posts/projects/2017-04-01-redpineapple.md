@@ -7,10 +7,10 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Red Pineapple"
+  title: "쇼핑몰 Project"
   type: "Jekyll"
   url: "https://github.com/arnolds/pineapple"
-  goUrl: "http://www.naver.com/"
+  goUrl: "http://unuho.kro.kr"
   logo: "/assets/images/projects/redpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
