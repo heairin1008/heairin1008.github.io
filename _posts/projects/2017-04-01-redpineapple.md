@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "쇼핑몰 Project"
-  type: "Jekyll"
+  type: "model 1방식을 이용한 쇼핑몰 제작 "
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr"
   logo: "/assets/images/projects/redpineapple/logo.png"
