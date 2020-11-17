@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Yellow Pineapple"
-  type: "Jekyll"
+  title: "sakila Project"
+  type: "sakila Project"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
