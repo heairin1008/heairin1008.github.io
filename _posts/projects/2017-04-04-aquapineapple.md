@@ -15,7 +15,7 @@ project:
 
 agency:
   title: "Aqua Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  url: "http://unuho.kro.kr/lms"
   year: "2018"
 
 images:
