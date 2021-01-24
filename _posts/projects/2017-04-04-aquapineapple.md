@@ -9,7 +9,7 @@ meta:
 project:
   title: "Final Project"
   type: "최종 프로젝트"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://unuho.kro.kr/lms"
   logo: "/assets/images/projects/aquapineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
