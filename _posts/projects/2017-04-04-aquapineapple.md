@@ -9,13 +9,14 @@ meta:
 project:
   title: "LMS Project"
   type: "팀 프로젝트로 SPRING TOOL을 이용한 강의지원 페이지 제작"
-  url: "http://unuho.kro.kr/lms"
+  url: "https://github.com/arnolds/pineapple"
+  goUrl : "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Aqua Pineapple Co"
-  url: "http://unuho.kro.kr/lms"
+  url: "https://github.com/arnolds/pineapple"
   year: "2018"
 
 images:
