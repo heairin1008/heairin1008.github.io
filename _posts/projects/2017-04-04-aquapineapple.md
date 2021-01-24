@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "LMS Project"
-  type: "최종 프로젝트"
+  type: "팀 프로젝트로 SPRING TOOL을 이용한 강의지원 페이지 제작"
   url: "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
