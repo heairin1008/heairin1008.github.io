@@ -10,7 +10,7 @@ project:
   title: "Final Project"
   type: "최종 프로젝트"
   url: "http://unuho.kro.kr/lms"
-  logo: "/assets/images/projects/aquapineapple/logo.png"
+  logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
