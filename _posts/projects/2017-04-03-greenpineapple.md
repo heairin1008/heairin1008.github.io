@@ -15,7 +15,7 @@ project:
 
 agency:
   title: "Green Pineapple Co"
-  url: "https://github.com/arnolds/pineapple"
+  url: "http://unuho.kro.kr/cash"
   year: "2017"
 
 images:
