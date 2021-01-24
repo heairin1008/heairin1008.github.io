@@ -9,14 +9,14 @@ meta:
 project:
   title: "cashbook Project"
   type: "spring tool을 이용한 가계부 제작"
-  url: "http://unuho.kro.kr/cash"
+  url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr/cash"
   logo: "/assets/images/projects/greenpineapple/cash.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
   title: "Green Pineapple Co"
-  url: "http://unuho.kro.kr/cash"
+  url: "https://github.com/arnolds/pineapple"
   year: "2017"
 
 images:
