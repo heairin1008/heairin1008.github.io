@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "쇼핑몰 Project"
-  type: "model 1방식을 이용한 쇼핑몰 제작 "
+  title: "employees Project"
+  type: "JSP로 제작한 직원 관리 프로젝트"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr"
   logo: "/assets/images/projects/redpineapple/logo.png"
