@@ -10,7 +10,7 @@ project:
   title: "cashbook Project"
   type: "spring tool을 이용한 가계부 제작"
   url: "http://unuho.kro.kr/cash"
-  logo: "/assets/images/projects/greenpineapple/logo.png"
+  logo: "/assets/images/projects/greenpineapple/cash.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
