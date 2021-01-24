@@ -7,8 +7,8 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "sakila Project"
-  type: "sakila Project"
+  title: "쇼핑몰 Project"
+  type: "MODEL 1 방식을 이용한 쇼핑몰 제작"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/logo.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
