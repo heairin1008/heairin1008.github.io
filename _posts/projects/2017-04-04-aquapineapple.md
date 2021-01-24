@@ -7,7 +7,7 @@ meta:
   keywords: "Jekyll, Pineapple"
 
 project:
-  title: "Final Project"
+  title: "LMS Project"
   type: "최종 프로젝트"
   url: "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/aquapineapple/lms.png"
