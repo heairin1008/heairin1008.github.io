@@ -32,7 +32,7 @@
 					<ul>
 						{% for image in page.images %}
 						<li>
-							<img style="border-radius:7px;" src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
+							<img src="{{ image.url | prepend: site.baseurl }}" alt="{{ image.alt }}" />
 						</li>
 						{% endfor %}
 					</ul>
