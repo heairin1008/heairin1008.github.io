@@ -11,7 +11,7 @@ project:
   type: "팀 프로젝트로 SPRING TOOL을 이용한 강의지원 페이지 제작"
   url: "https://github.com/arnolds/pineapple"
   goUrl : "http://unuho.kro.kr/lms"
-  logo: "/assets/images/projects/aquapineapple/lms.png"
+  logo: "/assets/images/projects/aquapineapple/lms_1.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
