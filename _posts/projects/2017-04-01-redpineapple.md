@@ -11,7 +11,7 @@ project:
   type: "JSP로 제작한 직원 관리 프로젝트"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr"
-  logo: "/assets/images/projects/redpineapple/logo.png"
+  logo: "/assets/images/projects/redpineapple/employees.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
