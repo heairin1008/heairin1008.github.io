@@ -11,7 +11,7 @@ project:
   type: "spring tool을 이용한 가계부 제작"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr/cash"
-  logo: "/assets/images/projects/greenpineapple/cash.png"
+  logo: "/assets/images/projects/greenpineapple/cash_1.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
