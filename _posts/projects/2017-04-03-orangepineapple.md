@@ -11,7 +11,7 @@ project:
   type: "MODEL 1 방식을 이용한 고객용 쇼핑몰 제작"
   url: "https://github.com/arnolds/pineapple"
   goUrl : "http://unuho.kro.kr/lms"
-  logo: "/assets/images/projects/yellowpineapple/logo.png"
+  logo: "/assets/images/projects/yellowpineapple/mall.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
