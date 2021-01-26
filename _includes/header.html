@@ -3,13 +3,23 @@
 		<h1 class="logo">
 			<a title="{{ site.author }}" href="{{ site.baseurl | append: "/" }}">{{ site.author }}</a>
 		</h1>
-		<nav id="nav">
-			<ul>
-				<li><a href="#about" class="active">About me</a></li>
-				<li><a href="#portfolio">Project</a></li>
-				<li><a href="#cta">Contact</a></li>
-			</ul>
-		</nav>
+		<div id="menu-wrapper">
+                	<div class="row">
+                        	<div class="logo-wrapper col-md-2 col-sm-2">
+					<h1 class="logo">
+						<a title="{{ site.author }}" href="{{ site.baseurl | append: "/" }}">{{ site.author }}</a>
+					</h1>
+                                </div> <!-- /.logo-wrapper -->
+                                <div class="col-md-10 col-sm-10 main-menu text-right">
+                                	<div class="toggle-menu visible-sm visible-xs"><i class="fa fa-bars"></i></div>
+					<ul class="menu-first">
+                                        	<li><a href="#about">About</a></li>
+                                        	<li><a href="#portfolio">Portfolio</a></li>
+                                        	<li><a href="#Contact">Contact</a></li>                                 
+                                    	</ul>                                    
+                                </div> <!-- /.main-menu -->
+			</div> <!-- /.row -->
+		</div>
 		<br>
 		<div style="margin-top:20px;">
 			<img style="border-radius:50px;" src="/assets/images/projects/self/self.jpg">
