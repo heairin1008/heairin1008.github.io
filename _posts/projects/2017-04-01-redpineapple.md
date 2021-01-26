@@ -8,7 +8,7 @@ meta:
 
 project:
   title: "employees Project"
-  type: "JSP로 제작한 직원 관리 프로젝트
+  type: "JSP로 제작한 직원 관리 프로젝트<br>
          사용 프로그램 : Eclipse, HeidiSQL"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr"
