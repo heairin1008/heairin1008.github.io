@@ -12,7 +12,7 @@ project:
           <br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/goodee-project/LMS-Z"
   goUrl : "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/aquapineapple/lms_1.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
