@@ -9,8 +9,9 @@ meta:
 project:
   title: "고객용 쇼핑몰 Project"
   type: "MODEL 1 방식을 이용한 고객용 쇼핑몰 제작<br>
-         사용 프로그램 : Eclipse, HeidiSQL<br>
-         사용 언어 : HTML, Java, SQL, JavaScript"
+          <br>
+         - 사용 프로그램 : Eclipse, HeidiSQL<br>
+         - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/arnolds/pineapple"
   goUrl : "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/yellowpineapple/mall.png"
