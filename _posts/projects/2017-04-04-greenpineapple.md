@@ -8,7 +8,9 @@ meta:
 
 project:
   title: "cashbook Project"
-  type: "spring tool을 이용한 가계부 제작"
+  type: "spring tool을 이용한 가계부 제작<br>
+         사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
+         사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr/cash"
   logo: "/assets/images/projects/greenpineapple/cash_1.png"
