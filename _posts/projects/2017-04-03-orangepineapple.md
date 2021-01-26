@@ -10,6 +10,8 @@ project:
   title: "고객용 쇼핑몰 Project"
   type: "MODEL 1 방식을 이용한 고객용 쇼핑몰 제작<br>
           <br>
+         - 진행기간 : 2주(2020.09)<br>
+         - 프로젝트 방식 : MODEL 2<br>
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/heairin1008/mall"
