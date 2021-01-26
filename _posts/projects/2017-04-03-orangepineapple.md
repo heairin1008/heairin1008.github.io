@@ -12,7 +12,7 @@ project:
           <br>
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/heairin1008/mall"
   goUrl : "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/yellowpineapple/mall.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
