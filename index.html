@@ -101,7 +101,7 @@
 				<ul class="projects-list">
 					{% for item in site.categories.projects reversed %}
 						<li>
-							<div style="background-color:#f2f4f8; padding:10px;">
+							<div style="background-color:#f2f4f8; padding:10px; margin:10px;">
 							<a href="{{item.project.goUrl}}" target="_blank">
 								<div class="img-wrapper">
 									<img id="img" src="{{ item.project.logo | prepend: site.baseurl }}" alt="{{ item.project.title }}" />
