@@ -8,7 +8,9 @@ meta:
 
 project:
   title: "관리자용 쇼핑몰 Project"
-  type: "MODEL 1 방식을 이용한 관리자용 쇼핑몰 제작"
+  type: "MODEL 1 방식을 이용한 관리자용 쇼핑몰 제작<br>
+         사용 프로그램 : Ecilpse, HeidiSQL<br>
+         사용 언어 : Html, Java, SQL,JavaScript"
   url: "https://github.com/arnolds/pineapple"
   logo: "/assets/images/projects/yellowpineapple/mall_admin.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
