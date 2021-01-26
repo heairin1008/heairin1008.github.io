@@ -16,7 +16,7 @@ project:
          - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/heairin1008/cashbook"
   goUrl: "http://unuho.kro.kr/cash"
-  logo: "/assets/images/projects/greenpineapple/cash_1.png"
+  logo: "/assets/images/projects/greenpineapple/cash.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
