@@ -12,7 +12,7 @@ project:
           <br>
          - 사용 프로그램 : Ecilpse, HeidiSQL<br>
          - 사용 언어 : Html, Java, SQL,JavaScript"
-  url: "https://github.com/arnolds/pineapple"
+  url: "https://github.com/heairin1008/mall-admin"
   logo: "/assets/images/projects/yellowpineapple/mall_admin.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
