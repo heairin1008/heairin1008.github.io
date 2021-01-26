@@ -10,7 +10,7 @@ project:
   title: "employees Project"
   type: "JSP로 제작한 직원 관리 프로젝트<br>
           <br>
-         - 진행기간 : 3주(2020.11)<br>
+         - 진행기간 : 1주(2020.09)<br>
          - 프로젝트 방식 : JSP<br>
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : Html, Java, SQL"
