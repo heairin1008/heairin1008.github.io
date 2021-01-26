@@ -9,6 +9,7 @@ meta:
 project:
   title: "LMS Project"
   type: "팀 프로젝트로 SPRING TOOL을 이용한 강의지원 페이지 제작<br>
+          <br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/arnolds/pineapple"
