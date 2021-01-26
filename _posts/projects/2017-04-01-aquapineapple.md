@@ -16,7 +16,7 @@ project:
          - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/goodee-project/LMS-Z"
   goUrl : "http://unuho.kro.kr/lms"
-  logo: "/assets/images/projects/aquapineapple/lms_1.png"
+  logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
