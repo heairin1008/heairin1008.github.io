@@ -10,6 +10,8 @@ project:
   title: "LMS Project"
   type: "팀 프로젝트로 SPRING TOOL을 이용한 강의지원 페이지 제작<br>
           <br>
+         - 진행기간 : 6주(2020.12 - 2021.01)<br>
+         - 프로젝트 방식 : Spring MVC
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
   url: "https://github.com/goodee-project/LMS-Z"
