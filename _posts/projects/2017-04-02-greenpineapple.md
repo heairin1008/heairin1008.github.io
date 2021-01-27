@@ -8,8 +8,7 @@ meta:
 
 project:
   title: "cashbook Project"
-  type: "spring tool을 이용한 가계부 제작<br>
-          <br>
+  type: "<br>
          - 진행기간 : 3주(2020.11)<br>
          - 프로젝트 방식 : Spring MVC<br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
