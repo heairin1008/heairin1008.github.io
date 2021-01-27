@@ -17,7 +17,7 @@ project:
           또한, 공지사항과 전체 수익/지출 내역 확인, 다운로드가 가능하고, Chart.js를 이용해 여러 통계차트를 확인할 수 있습니다.
           <pre></pre>
           <pre></pre>
-          <pre></pre>""
+          <pre></pre>"
   url: "https://github.com/heairin1008/cashbook"
   goUrl: "http://unuho.kro.kr/cash"
   logo: "/assets/images/projects/greenpineapple/cash.png"
