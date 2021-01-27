@@ -13,7 +13,7 @@ project:
          - 프로젝트 방식 : Spring MVC<br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
-  text: "Cashbook 프로젝트는 Spring Tool로 제작한 가계부입니다. 개인 프로젝트로 캘린더API를 사용해 달력을 표시하여 전체적인 수익, 지출을 확인 가능합니다.
+  text: "Cashbook 프로젝트는 Spring Tool로 제작한 가계부입니다. 개인 프로젝트로 캘린더API를 사용해 달력을 표시하여 전체적인 수익, 지출을 확인 가능합니다.<br>
           또한, 공지사항과 전체 수익/지출 내역 확인, 다운로드가 가능하고, Chart.js를 이용해 여러 통계차트를 확인할 수 있습니다."
   url: "https://github.com/heairin1008/cashbook"
   goUrl: "http://unuho.kro.kr/cash"
