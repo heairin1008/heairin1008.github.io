@@ -14,7 +14,8 @@ project:
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : Html, Java, SQL"
   text: "eclipse를 사용해 JSP로만 제작하여 만든 직원관리 프로젝트입니다.<br>
-          부서, 부서번호, 관리자, 직원, 급여, 직무에 대해 조회할 수 있고, 검색 기능을 이용해 원하는 정보를 조회할 수 있습니다."
+          부서, 부서번호, 관리자, 직원, 급여, 직무에 대해 조회할 수 있고, 검색 기능을 이용해 원하는 정보를 조회할 수 있습니다.
+          <pre style='margin:0 0 5rem'></pre>"
   url: "https://github.com/arnolds/pineapple"
   goUrl: "http://unuho.kro.kr"
   logo: "/assets/images/projects/redpineapple/employees.png"
