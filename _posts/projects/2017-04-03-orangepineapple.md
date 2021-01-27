@@ -8,12 +8,14 @@ meta:
 
 project:
   title: "고객용 쇼핑몰 Project"
-  type: "MODEL 1 방식을 이용한 고객용 쇼핑몰 제작<br>
-          <br>
+  type: "<br>
          - 진행기간 : 2주(2020.09 - 2020.10)<br>
          - 프로젝트 방식 : MODEL 1<br>
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
+  text: "eclipse를 사용하여 MODEL 1 방식으로 만든 쇼핑몰 프로젝트의 고객용으로 제작한 프로젝트입니다.
+          고객은 로그인하여 전체적으로 또는 카테고리별로 물건 목록을 볼 수 있고, 원하는 물건을 검색하여 구매할 수 있습니다.
+          마이페이지에 들어가면 고객의 정보와 고객이 구매한 물건 목록을 볼 수 있습니다."
   url: "https://github.com/heairin1008/mall"
   goUrl : "http://unuho.kro.kr/lms"
   logo: "/assets/images/projects/yellowpineapple/mall.png"
