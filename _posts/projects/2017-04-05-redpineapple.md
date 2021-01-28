@@ -9,7 +9,7 @@ meta:
 project:
   title: "employees Project"
   type: "<br>
-         - 진행기간 : 2020.09.08 - 2020.09.16(1주)<br>
+         - 진행기간 : 2020.09.08 - 2020.09.15(1주)<br>
          - 프로젝트 방식 : JSP<br>
          - 사용 프로그램 : Eclipse, HeidiSQL<br>
          - 사용 언어 : Html, Java, SQL"
