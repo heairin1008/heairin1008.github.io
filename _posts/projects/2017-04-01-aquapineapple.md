@@ -9,7 +9,7 @@ meta:
 project:
   title: "LMS Project"
   type: "<br>
-         - 진행기간 : 6주(2020.12 - 2021.01)<br>
+         - 진행기간 : 2020.12.14 - 2021.01.15(5주)<br>
          - 프로젝트 방식 : Spring MVC<br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
