@@ -9,7 +9,7 @@ meta:
 project:
   title: "관리자용 쇼핑몰 Project"
   type: "<br>
-         - 진행기간 : 2020.09.16 - 2020.09.22(1주)<br>
+         - 진행기간 : 2020.09.16 - 2020.09.30(2주)<br>
          - 프로젝트 방식 : MODEL 1<br>
          - 사용 프로그램 : Ecilpse, HeidiSQL<br>
          - 사용 언어 : Html, Java, SQL,JavaScript"
