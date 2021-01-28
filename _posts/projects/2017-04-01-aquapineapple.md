@@ -20,6 +20,7 @@ project:
         부가적으로 스케줄러를 통해 6개월 이상 미접속한 계정을 휴면계정으로 전환하는 기능, filter를 통해 중복로그인 방지 기능을 추가하였습니다."
   url: "https://github.com/goodee-project/LMS-Z"
   goUrl : "http://unuho.kro.kr/lms"
+  download : "/assets/images/projects/aquapineapple/lms_z_project.pdf"
   logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
