@@ -99,6 +99,9 @@
 							<hr>
 							</div>
 							<a class="h2" href="{{item.project.url}}" target="_blank">[GitHub]</a>
+							{% if item.project.blank != null%}
+								<span>{{item.project.blank}}</span>
+							{% endif %}
 							{% if item.project.download != null%}
 								<a class="h2" href="{{item.project.download}}" target="_blank" download>[프로젝트 PPT]</a>
 							{% endif %}
