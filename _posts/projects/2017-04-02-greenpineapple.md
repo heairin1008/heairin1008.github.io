@@ -9,7 +9,7 @@ meta:
 project:
   title: "cashbook Project"
   type: "<br>
-         - 진행기간 : 3주(2020.11)<br>
+         - 진행기간 : 2020.11.06 - 2020.11.26(3주)<br>
          - 프로젝트 방식 : Spring MVC<br>
          - 사용 프로그램 : Eclipse, Spring Tool Suite, HeidiSQL<br>
          - 사용 언어 : HTML, Java, SQL, JavaScript"
