@@ -17,6 +17,7 @@ project:
           관리자는 로그인하여 상품의 카테고리와 상품을 관리할 수 있고, 고객의 주문을 관리하여 주문상태를 변경할 수 있습니다.<br>
           또한, 쇼핑몰에 보여지는 공지사항을 추가, 수정할 수 있고, 고객의 계정을 관리해 탈퇴시킬 수 있습니다."
   url: "https://github.com/heairin1008/mall-admin"
+  goUrl: "http://unuho.kro.kr/mall-admin"
   logo: "/assets/images/projects/yellowpineapple/mall_admin.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
