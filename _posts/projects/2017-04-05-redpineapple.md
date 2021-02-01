@@ -17,7 +17,7 @@ project:
           부서, 부서번호, 관리자, 직원, 급여, 직무에 대해 조회할 수 있고, 검색 기능을 이용해 원하는 정보를 조회할 수 있습니다.
           <pre style='margin:0 0 6.5rem'></pre>"
   url: "https://github.com/heairin1008/employees"
-  goUrl: "http://unuho.kro.kr"
+  goUrl: "http://unuho.kro.kr/employees"
   logo: "/assets/images/projects/redpineapple/employees.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
