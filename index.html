@@ -102,6 +102,9 @@
 							{% if item.project.download != null%}
 								<a class="h2" style="display:inline-block;" href="{{item.project.download}}" target="_blank" download>[프로젝트 PPT]</a>
 							{% endif %}
+							{% if item.project.erd != null%}
+								<a class="h2" style="display:inline-block;" href="{{item.project.erd}}" target="_blank" download>[ERD]</a>
+							{% endif %}
 							</div>
 						</li>
 					{% endfor %}
