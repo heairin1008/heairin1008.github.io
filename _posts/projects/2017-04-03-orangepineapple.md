@@ -18,7 +18,7 @@ project:
           마이페이지에 들어가면 고객의 정보와 고객이 구매한 물건 목록을 볼 수 있습니다."
   url: "https://github.com/heairin1008/mall"
   goUrl : "http://unuho.kro.kr/mall"
-  erd : "/assets/images/projects/self/mall_erd.png"
+  erd : "/assets/images/projects/self/mall_erd.PNG"
   logo: "/assets/images/projects/yellowpineapple/mall.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
