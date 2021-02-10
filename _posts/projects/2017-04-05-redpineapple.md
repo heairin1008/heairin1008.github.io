@@ -19,6 +19,7 @@ project:
   url: "https://github.com/heairin1008/employees"
   goUrl: "http://unuho.kro.kr/employees"
   logo: "/assets/images/projects/redpineapple/employees.png"
+  erd : "/assets/images/projects/self/employees_erd.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
