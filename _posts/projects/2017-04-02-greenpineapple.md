@@ -18,7 +18,7 @@ project:
           <pre style='margin:0 0 17.1rem;'></pre>"
   url: "https://github.com/heairin1008/cashbook"
   goUrl: "http://unuho.kro.kr/cash"
-  erd : "/assets/images/projects/self/cash_erd.png"
+  erd : "/assets/images/projects/self/cash_erd.PNG"
   logo: "/assets/images/projects/greenpineapple/cash.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
