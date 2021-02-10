@@ -18,8 +18,8 @@ project:
           또한, 쇼핑몰에 보여지는 공지사항을 추가, 수정할 수 있고, 고객의 계정을 관리해 탈퇴시킬 수 있습니다."
   url: "https://github.com/heairin1008/mall-admin"
   goUrl: "http://unuho.kro.kr/mall-admin"
+  erd : "/assets/images/projects/self/mall_erd.PNG"
   logo: "/assets/images/projects/yellowpineapple/mall_admin.png"
-  erd : "/assets/images/projects/self/mall_erd.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
