@@ -18,8 +18,8 @@ project:
           <pre style='margin:0 0 6.5rem'></pre>"
   url: "https://github.com/heairin1008/employees"
   goUrl: "http://unuho.kro.kr/employees"
+  erd : "/assets/images/projects/self/employees_erd.PNG"
   logo: "/assets/images/projects/redpineapple/employees.png"
-  erd : "/assets/images/projects/self/employees_erd.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
