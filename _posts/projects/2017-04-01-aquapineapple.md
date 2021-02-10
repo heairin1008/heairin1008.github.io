@@ -21,6 +21,7 @@ project:
   url: "https://github.com/goodee-project/LMS-Z"
   goUrl : "http://unuho.kro.kr/lms"
   download : "/assets/images/projects/aquapineapple/lms_z_project.pdf"
+  erd : "/assets/images/projects/self/lms_erd.png"
   logo: "/assets/images/projects/aquapineapple/lms.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
