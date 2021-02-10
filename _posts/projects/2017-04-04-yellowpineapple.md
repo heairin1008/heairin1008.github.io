@@ -19,6 +19,7 @@ project:
   url: "https://github.com/heairin1008/mall-admin"
   goUrl: "http://unuho.kro.kr/mall-admin"
   logo: "/assets/images/projects/yellowpineapple/mall_admin.png"
+  erd : "/assets/images/projects/self/mall_erd.png"
   tech: "HTML, CSS, Boostrap, Sass, JavaScript, jQuery, Jekyll"
 
 agency:
